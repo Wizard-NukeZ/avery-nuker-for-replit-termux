@@ -1,0 +1,9 @@
+requests
+os
+sys
+threading
+time
+json
+asyncio
+discord
+aiohttp
