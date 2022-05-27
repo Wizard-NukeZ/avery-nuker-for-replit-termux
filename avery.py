@@ -6,6 +6,7 @@ import time
 import json
 import asyncio
 import discord
+import pypresence
 import aiohttp
 
 from pypresence import Presence
