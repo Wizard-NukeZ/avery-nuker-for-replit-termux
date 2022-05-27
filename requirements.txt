@@ -7,3 +7,4 @@ json
 asyncio
 discord
 aiohttp
+pypresence
