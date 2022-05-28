@@ -1,2 +1,0 @@
-language = "bash"
-run = "pip install discord && pip install presence && clear && python avery.py"
