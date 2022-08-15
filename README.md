@@ -1,13 +1,15 @@
-$pkg install git
+`
+pkg install git
 
-$pkg install python
+pkg install python
 
-$git clone https://github.com/ToxicplayZ69/avery-nuker-for-replit-termux
+git clone https://github.com/ToxicplayZ69/avery-nuker-for-replit-termux
 
-$cd avery-nuker-for-replit-termux
+cd avery-nuker-for-replit-termux
 
-$ls
+ls
 
-$python avery.py
+python avery.py
 
 Enjoy!
+`
